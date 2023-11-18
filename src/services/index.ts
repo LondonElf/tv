@@ -13,12 +13,13 @@ import { liveGoTestGenerator } from "./livegotest/livegotest.generator";
 import { aflistGenerator } from "./aflist/aflist.generator";
 import { tvTeamGenerator } from "./tvteam/tvteam.generator.js";
 
+type GeneratorFunction = (username: string, password: string) => Generator<string, void, unknown>;
+type AsyncGeneratorFunction = (username: string, password: string) => AsyncGenerator<string, void, unknown>;
 
-
-type M3uGenerator = (username: string, password: string) => Generator<string, void, unknown>;
+type M3uGenerator = GeneratorFunction | AsyncGeneratorFunction;
 
 export const SERVICE_GENERATORS: Record<string, M3uGenerator> = {
-    "tvil2": aflistGenerator,
+    "tvil2": aflistGenerator as M3uGenerator,
     "livegous": liveGoUsGenerator,
     "livego": liveGoGenerator,
     "livegodm": liveGoDmGenerator,
@@ -32,4 +33,4 @@ export const SERVICE_GENERATORS: Record<string, M3uGenerator> = {
     "edemdm": edemDmGenerator,
     "livegotest": liveGoTestGenerator,
     "tvteam": tvTeamGenerator
-}
+};
