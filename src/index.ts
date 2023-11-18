@@ -62,3 +62,5 @@ app.get("/:service", (req, res) => {
       : res.status(500).send("Internal Server Error");
   }
 });
+
+app.listen(3000, () => console.log("Started"));
