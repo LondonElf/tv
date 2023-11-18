@@ -25,12 +25,12 @@ app.get("/:service", (req, res) => {
 
     console.log(`Generating '${service}'...`);
 
-    const content = Array.from(
-      generator(
-        typeof username === "string" ? username : "",
-        typeof password === "string" ? password : ""
-      )
-    ).join("\n");
+    const generatorResult: Iterable<string> = generator(
+      typeof username === "string" ? username : "",
+      typeof password === "string" ? password : ""
+    );
+
+    const content = [...generatorResult].join("\n");
 
     res.set({
       "Content-Type": "application/octet-stream",
@@ -44,9 +44,11 @@ app.get("/:service", (req, res) => {
     res.send(content);
   } catch (e) {
     console.error(e);
-    e instanceof UserException
-      ? res.status(e.statusCode).send(e.message)
-      : res.status(500).send("Internal Server Error");
+    if (e instanceof UserException) {
+      res.status(e.statusCode).send(e.message);
+    } else {
+      res.status(500).send("Internal Server Error");
+    }
   }
 });
 
