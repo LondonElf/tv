@@ -1,0 +1,792 @@
+[
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "11-kanal-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Kan-11.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "כאן 11",
+   "channelId": "כאן 11 [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "12-kanal-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Keshet-12.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "קשת 12",
+   "channelId": "קשת [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "13-kanal-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Reshet-13.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "רשת 13",
+   "channelId": "רשת [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "14-kanal-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Channel-14.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "ערוץ 14",
+   "channelId": "ערוץ 14 [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "hot-cinema1-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/HOT-C1.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "הוט סינמה 1",
+   "channelId": "HOT cinema 1 [HOT]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "hot-cinema2-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/HOT-C2.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "הוט סינמה 2",
+   "channelId": "HOT cinema 2 [HOT]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "hot-cinema3-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/HOT-C3.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "הוט סינמה 3",
+   "channelId": "HOT cinema 3 [HOT]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "hot-cinema4-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/HOT-C4.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "הוט סינמה 4",
+   "channelId": "HOT cinema 4 [HOT]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "hot3-hd-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/HOT-3.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "הוט 3",
+   "channelId": "HOT3 [HOT]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "hot-8-il-hd",
+   "tvgLogo": "https://mizapo.github.io/picons/light/HOT-8.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "הוט 8",
+   "channelId": "HOT8 [HOT]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "hot-hbo-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/HOT-HBO.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "HBO הוט",
+   "channelId": "HOT HBO [HOT]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "hot-zone-hd-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/HOT-Zone.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "הוט זון",
+   "channelId": "HOT Zone [HOT]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "hot-comedy-central-il-hd",
+   "tvgLogo": "https://mizapo.github.io/picons/light/HOT-Comedy-Central.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "הוט קומדי סנטרל",
+   "channelId": "HOT COMEDY [HOT]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "entertainment-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/HOT-Bidur.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "הוט בידור ישראלי",
+   "channelId": "הוט בידור [HOT]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "hot-real-il-hd",
+   "tvgLogo": "https://mizapo.github.io/picons/light/HOT-Reality.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "הוט ריל",
+   "channelId": "HOT Real [HOT]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "cinema-family-il-hd",
+   "tvgLogo": "https://mizapo.github.io/picons/light/HOT-Cinema-Family.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "הוט סינמה משפחה",
+   "channelId": "Cinema Family [HOT]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "humor-channel-il-hd",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Humor-Channel.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "ערוץ ההומור",
+   "channelId": "ערוץ ההומור [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "yes-action-hd-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Yes-TV-Action.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "יס טלויזיה פעולה",
+   "channelId": "yes TV ACTION [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "yes-comedy-hd-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Yes-TV-Comedy.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "יס טלויזיה קומדיה",
+   "channelId": "yes TV COMEDY [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "yes-drama-hd-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Yes-TV-Drama.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "יס טלויזיה דרמה",
+   "channelId": "yes TV DRAMA [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "yes-movies-action-hd-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Yes-Movies-Action.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "יס סרטים פעולה",
+   "channelId": "yes MOVIES ACTION [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "yes-movies-comedy-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Yes-Movies-Comedy.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "יס סרטים קומדיה",
+   "channelId": "yes MOVIES COMEDY [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "yes-movies-drama-il-hd",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Yes-Movies-Drama.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "יס סרטים דרמה",
+   "channelId": "yes MOVIES DRAMA [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "yes-movies-kids-hd-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Yes-Movies-Kids.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "יס סרטים ילדים",
+   "channelId": "yes MOVIES KIDS [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "yes-israel-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Yes-Israeli.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "יס קולנוע ישראלי",
+   "channelId": "yes קולנוע ישראלי [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "yes-docu-il-hd",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Yes-Docu.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "יס דוקו",
+   "channelId": "yes דוקו [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "turkish-dramas-plus-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Turkish-Drama-Plus.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "ערוץ הדרמות הטורקיות+",
+   "channelId": "ערוץ הדרמות הטורקיות+ [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "turkish-dramas2-il-hd",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Turkish-Drama-2.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "ערוץ הדרמות הטורקיות 2",
+   "channelId": "ערוץ הדרמות הטורקיות 2 [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "turkish-dramas3-il-hd",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Turkish-Drama-3.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "ערוץ הדרמות הטורקיות 3",
+   "channelId": "ערוץ הדרמות הטורקיות 3 [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "yamtihoni-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Yam-Tihoni.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "הערוץ הים תיכוני",
+   "channelId": "ים תיכוני [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "yam-tichoni-plus-hd",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Yam-Tihoni-Plus.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "הערוץ הים תיכוני+",
+   "channelId": "הערוץ הים תיכוני+ [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "viva-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Viva.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "ויוה",
+   "channelId": "ויוה [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "viva-plus-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Viva-Plus.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "ויוה+",
+   "channelId": "ויוה+ [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "viva-premium-il-hd",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Viva-Premium.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "ויוה פרימיום",
+   "channelId": "Viva Premium [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "viva-vintage-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Viva-Vintage.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "ויוה וינטאג'",
+   "channelId": "Viva Vintage"
+ },
+  {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "hot-bollywood-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/HOT-Bollywood.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "הוט בוליווד",
+   "channelId": "Bollywood HD [HOT]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "hot-bolyshow-il-hd",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Yes-Bollyshow.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "בולישואו",
+   "channelId": "BollyShow [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "yes-disney-il-hd",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Disney.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "דיסני",
+   "channelId": "דיסני HD [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "disney-jr-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Disney-Jr.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "דיסני ג׳וניור",
+   "channelId": "דיסני ג’וניור [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "yes-nickelodeon-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Nick.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "ניקולודיאון",
+   "channelId": "ניקלודיאון [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "nick-jr-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Nick-Jr.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "ניק ג׳וניור",
+   "channelId": "ניק ג’וניור [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "teennick-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/TeenNick.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "ניק טין",
+   "channelId": "Teennick [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "hop-childhood-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Hop.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "הופ!",
+   "channelId": "הופ! [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "luli-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/HOT-Luli.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "הוט לולי",
+   "channelId": "HOT לולי [HOT]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "baby-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Baby.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "בייבי",
+   "channelId": "בייבי [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "zoom-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Zoom.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "זום",
+   "channelId": "Zoom [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "yes-wiz-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Wiz.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "וויז",
+   "channelId": "ערוץ WiZ [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "junior-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Junior.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "ג׳וניור",
+   "channelId": "ג’וניור [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "kan23-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Kan-Chinuchit.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "כאן חינוכית",
+   "channelId": "כאן חינוכית [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "travel-channel-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Hatiyulim.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "ערוץ הטיולים",
+   "channelId": "ערוץ הטיולים [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "home-plus-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Home-Plus.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "בית+",
+   "channelId": "בית+ [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "food-network-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Food-Network.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "רשת האוכל",
+   "channelId": "Food Network [HOT]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "foody-il-hd",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Foody.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "פודי",
+   "channelId": "ערוץ Foody [HOT]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "health-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Health.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "ערוץ הבריאות",
+   "channelId": "ערוץ בריאות [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "good-life-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Hachaim.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "ערוץ החיים הטובים",
+   "channelId": "החיים הטובים [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "cbs-reality-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/CBS-Reality.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "CBS ריאליטי",
+   "channelId": "CBS reality [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "ego-total-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Ego.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "ערוץ אגו",
+   "channelId": "ערוץ אגו [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "e-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/E-Entertainment.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "E! ערוץ",
+   "channelId": "E! [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "channel24-il-hd",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Channel-24.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "ערוץ 24",
+   "channelId": "ערוץ 24 החדש [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "music-il-hd",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Music-il.png",
+   "tvgRec": 0,
+   "catchupDays": 0,
+   "channelName": "IL מוזיקה",
+   "channelId": "ערוץ מוזיקה IL [HOT]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "yes-natgeo-il-hd",
+   "tvgLogo": "https://mizapo.github.io/picons/light/National-Geographic.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "נשיונל ג׳יאוגרפיק",
+   "channelId": "National Geographic [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "yes-natgeo-wild-il-hd",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Nat-Geo-Wild.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "נשיונל ג׳יאוגרפיק פראי",
+   "channelId": "NG WILD [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "discovery-hd-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Discovery.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "דיסקברי",
+   "channelId": "דיסקברי HD [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "discovery-science-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Discovery-Science.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "דיסקברי מדע",
+   "channelId": "Discovery Science [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "history-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/History.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "היסטוריה",
+   "channelId": "ערוץ ההיסטוריה [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "sport1-hd-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Sport1.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "ספורט 1",
+   "channelId": "ספורט 1 SD [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "sport2-hd-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Sport2.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "ספורט 2",
+   "channelId": "ספורט 2 HD [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "sport3-hd-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Sport3.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "ספורט 3",
+   "channelId": "ספורט 3 HD [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "sport4-hd-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Sport4.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "ספורט 4",
+   "channelId": "ספורט 4 HD [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "sport5-hd-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/5-Sport.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "ספורט 5",
+   "channelId": "5sport HD [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "sport5-il-4k",
+   "tvgLogo": "https://mizapo.github.io/picons/light/5-Sport-4K.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "4K ספורט 5",
+   "channelId": "5SPORT 4K [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "yes-sport5-plus-il-hd",
+   "tvgLogo": "https://mizapo.github.io/picons/light/5-Plus.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "ספורט 5 פלוס",
+   "channelId": "5PLUS HD [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "sport5-plus-live-hd-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/5-Live.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "ספורט 5 לייב",
+   "channelId": "5LIVE HD [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "sport5-stars-il-hd",
+   "tvgLogo": "https://mizapo.github.io/picons/light/5-Stars.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "ספורט 5 סטארס",
+   "channelId": "5STARS [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "one-hd-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/ONE.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "ONE",
+   "channelId": "ONE [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "one2-hd-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/ONE2.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "ONE 2",
+   "channelId": "ONE2 [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "9-kanal-hd-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Channel-9.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "ערוץ 9",
+   "channelId": "ישראל פלוס [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "makan33-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/Makan-33.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "מכאן 33",
+   "channelId": "מכאן [YES]"
+ },
+ {
+   "extGrp": "",
+   "groupTitle": "",
+   "tvgId": "i24-il",
+   "tvgLogo": "https://mizapo.github.io/picons/light/France-24.png",
+   "tvgRec": 7,
+   "catchupDays": 7,
+   "channelName": "i24 צרפת",
+   "channelId": "FRANCE 24 [YES]"
+ }
+]

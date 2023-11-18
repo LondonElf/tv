@@ -1,0 +1,1433 @@
+[
+    {
+        "extGrp": "ראשי",
+        "channelName": "SD כאן 11",
+        "tvgName": "11-kanal-il",
+        "tvgId": "11-kanal-il",
+        "tvgLogo": "https://i.imgur.com/1lJWCuQ.png",
+        "groupTitle": "Israel: Main Channels",
+        "channelId": 18131
+    },
+    {
+        "extGrp": "ראשי",
+        "channelName": "SD כאן 11",
+        "tvgName": "11-kanal-il",
+        "tvgId": "11-kanal-il",
+        "tvgLogo": "https://i.imgur.com/1lJWCuQ.png",
+        "groupTitle": "Israel: Main Channels",
+        "channelId": 3298
+    },
+    {
+        "extGrp": "ראשי",
+        "channelName": "FHD קשת 12",
+        "tvgName": "12-kanal-il",
+        "tvgId": "12-kanal-il",
+        "tvgLogo": "https://i.ibb.co/b3zb05L/12-Keshet.png",
+        "groupTitle": "Israel: Main Channels",
+        "channelId": 19374
+    },
+    {
+        "extGrp": "ראשי",
+        "channelName": "FHD קשת 12",
+        "tvgName": "12-kanal-il",
+        "tvgId": "12-kanal-il",
+        "tvgLogo": "https://i.ibb.co/b3zb05L/12-Keshet.png",
+        "groupTitle": "Israel: Main Channels",
+        "channelId": 16272
+    },
+    {
+        "extGrp": "ראשי",
+        "channelName": "SD קשת 12",
+        "tvgName": "12-kanal-il",
+        "tvgId": "12-kanal-il",
+        "tvgLogo": "https://i.ibb.co/b3zb05L/12-Keshet.png",
+        "groupTitle": "Israel: Main Channels",
+        "channelId": 14596
+    },
+    {
+        "extGrp": "ראשי",
+        "channelName": "FHD רשת 13",
+        "tvgName": "13-kanal-il",
+        "tvgId": "13-kanal-il",
+        "tvgLogo": "https://i.ibb.co/vZnz4w9/Channel13.png",
+        "groupTitle": "Israel: Main Channels",
+        "channelId": 19375
+    },
+    {
+        "extGrp": "ראשי",
+        "channelName": "HD רשת 13",
+        "tvgName": "13-kanal-il",
+        "tvgId": "13-kanal-il",
+        "tvgLogo": "https://i.ibb.co/vZnz4w9/Channel13.png",
+        "groupTitle": "Israel: Main Channels",
+        "channelId": 20218
+    },
+    {
+        "extGrp": "ראשי",
+        "channelName": "SD רשת 13",
+        "tvgName": "13-kanal-il",
+        "tvgId": "13-kanal-il",
+        "tvgLogo": "https://i.ibb.co/vZnz4w9/Channel13.png",
+        "groupTitle": "Israel: Main Channels",
+        "channelId": 3299
+    },
+    {
+        "extGrp": "ראשי",
+        "channelName": "HD ערוץ 14",
+        "tvgName": "channel.14.il",
+        "tvgId": "14-kanal-il",
+        "tvgLogo": "https://i.imgur.com/t9nSWSV.png",
+        "groupTitle": "Israel: Main Channels",
+        "channelId": 61503
+    },
+    {
+        "extGrp": "ראשי",
+        "channelName": "HD ערוץ 14",
+        "tvgName": "channel.14.il",
+        "tvgId": "14-kanal-il",
+        "tvgLogo": "https://i.imgur.com/t9nSWSV.png",
+        "groupTitle": "Israel: Main Channels",
+        "channelId": 16514
+    },
+    {
+        "extGrp": "ראשי",
+        "channelName": "HD ערוץ 14",
+        "tvgName": "channel.14.il",
+        "tvgId": "14-kanal-il",
+        "tvgLogo": "https://i.imgur.com/t9nSWSV.png",
+        "groupTitle": "Israel: Main Channels",
+        "channelId": 3301
+    },
+    {
+        "extGrp": "ראשי",
+        "channelName": "HD כאן חינוכית",
+        "tvgName": "kan.hinuchit.il",
+        "tvgId": "kan23-il",
+        "tvgLogo": "https://i.ibb.co/MpMp6td/KAN-hinohit.png",
+        "groupTitle": "Israel: Main Channels",
+        "channelId": 40771
+    },
+    {
+        "extGrp": "ראשי",
+        "channelName": "SD כאן חינוכית",
+        "tvgName": "kan.hinuchit.il",
+        "tvgId": "kan23-il",
+        "tvgLogo": "https://i.ibb.co/MpMp6td/KAN-hinohit.png",
+        "groupTitle": "Israel: Main Channels",
+        "channelId": 19376
+    },
+    {
+        "extGrp": "ראשי",
+        "channelName": "HD ערוץ הכנסת",
+        "tvgName": "knesset.il",
+        "tvgId": "ערוץ הכנסת [YES]",
+        "tvgLogo": "https://i.ibb.co/tC2CR1m/Knesset.png",
+        "groupTitle": "Israel: Main Channels",
+        "channelId": 14595
+    },
+    {
+        "extGrp": "ראשי",
+        "channelName": "HD ערוץ הכנסת",
+        "tvgName": "knesset.il",
+        "tvgId": "ערוץ הכנסת [YES]",
+        "tvgLogo": "https://i.ibb.co/tC2CR1m/Knesset.png",
+        "groupTitle": "Israel: Main Channels",
+        "channelId": 12033
+    },
+    {
+        "extGrp": "ראשי",
+        "channelName": "SD ערוץ ההידברות",
+        "tvgName": "hidabrut.il",
+        "tvgId": "ערוץ הידברות [YES]",
+        "tvgLogo": "https://i.ibb.co/Z2MDZPK/hidabrut.png",
+        "groupTitle": "Israel: Main Channels",
+        "channelId": 7343
+    },
+    {
+        "extGrp": "ראשי",
+        "channelName": "HD חדשות ערוץ 12",
+        "tvgName": "channel.12.news.il",
+        "tvgId": "",
+        "tvgLogo": "https://i.ibb.co/YhsnQBp/n12-news.png",
+        "groupTitle": "Israel: Main Channels",
+        "channelId": 41078
+    },
+    {
+        "extGrp": "ספורט",
+        "channelName": "FHD יס ספורט 1",
+        "tvgName": "sport1-hd-il",
+        "tvgId": "sport1-hd-il",
+        "tvgLogo": "https://i.ibb.co/NSKhsvL/sport1.png",
+        "groupTitle": "Israel: Sports",
+        "channelId": 20415
+    },
+    {
+        "extGrp": "ספורט",
+        "channelName": "HD יס ספורט 1",
+        "tvgName": "sport1-hd-il",
+        "tvgId": "sport1-hd-il",
+        "tvgLogo": "https://i.ibb.co/NSKhsvL/sport1.png",
+        "groupTitle": "Israel: Sports",
+        "channelId": 5958
+    },
+    {
+        "extGrp": "ספורט",
+        "channelName": "FHD יס ספורט 2",
+        "tvgName": "sport2-hd-il",
+        "tvgId": "sport2-hd-il",
+        "tvgLogo": "https://i.ibb.co/x7VJFPD/sport2.png",
+        "groupTitle": "Israel: Sports",
+        "channelId": 21901
+    },
+    {
+        "extGrp": "ספורט",
+        "channelName": "HD יס ספורט 2",
+        "tvgName": "sport2-hd-il",
+        "tvgId": "sport2-hd-il",
+        "tvgLogo": "https://i.ibb.co/x7VJFPD/sport2.png",
+        "groupTitle": "Israel: Sports",
+        "channelId": 5957
+    },
+    {
+        "extGrp": "ספורט",
+        "channelName": "HD יס ספורט 3",
+        "tvgName": "sport3-hd-il",
+        "tvgId": "sport3-hd-il",
+        "tvgLogo": "https://i.ibb.co/9c24FrV/sport3.png",
+        "groupTitle": "Israel: Sports",
+        "channelId": 11471
+    },
+    {
+        "extGrp": "ספורט",
+        "channelName": "SD יס ספורט 3",
+        "tvgName": "sport3-hd-il",
+        "tvgId": "sport3-hd-il",
+        "tvgLogo": "https://i.ibb.co/9c24FrV/sport3.png",
+        "groupTitle": "Israel: Sports",
+        "channelId": 21899
+    },
+    {
+        "extGrp": "ספורט",
+        "channelName": "FHD יס ספורט 4",
+        "tvgName": "sport4-hd-il",
+        "tvgId": "sport4-hd-il",
+        "tvgLogo": "https://i.ibb.co/kXRZMvf/sport4.png",
+        "groupTitle": "Israel: Sports",
+        "channelId": 21900
+    },
+    {
+        "extGrp": "ספורט",
+        "channelName": "HD יס ספורט 4",
+        "tvgName": "sport4-hd-il",
+        "tvgId": "sport4-hd-il",
+        "tvgLogo": "https://i.ibb.co/kXRZMvf/sport4.png",
+        "groupTitle": "Israel: Sports",
+        "channelId": 11472
+    },
+    {
+        "extGrp": "ספורט",
+        "channelName": "FHD ספורט 5",
+        "tvgName": "sport5-hd-il",
+        "tvgId": "sport5-hd-il",
+        "tvgLogo": "https://i.ibb.co/5ngL2DN/5-Sport.png",
+        "groupTitle": "Israel: Sports",
+        "channelId": 83774
+    },
+    {
+        "extGrp": "ספורט",
+        "channelName": "HD ספורט 5",
+        "tvgName": "sport5-hd-il",
+        "tvgId": "sport5-hd-il",
+        "tvgLogo": "https://i.ibb.co/5ngL2DN/5-Sport.png",
+        "groupTitle": "Israel: Sports",
+        "channelId": 20416
+    },
+    {
+        "extGrp": "ספורט",
+        "channelName": "HD ספורט 5",
+        "tvgName": "sport5-hd-il",
+        "tvgId": "sport5-hd-il",
+        "tvgLogo": "https://i.ibb.co/5ngL2DN/5-Sport.png",
+        "groupTitle": "Israel: Sports",
+        "channelId": 19813
+    },
+    {
+        "extGrp": "ספורט",
+        "channelName": "HD ספורט 5",
+        "tvgName": "sport5-hd-il",
+        "tvgId": "sport5-hd-il",
+        "tvgLogo": "https://i.ibb.co/5ngL2DN/5-Sport.png",
+        "groupTitle": "Israel: Sports",
+        "channelId": 41502
+    },
+    {
+        "extGrp": "ספורט",
+        "channelName": "4K ספורט 5",
+        "tvgName": "sport.5.4k.il",
+        "tvgId": "sport5-il-4k",
+        "tvgLogo": "https://i.ibb.co/gJk555m/5-sport-4k.png",
+        "groupTitle": "Israel: Sports",
+        "channelId": 50637
+    },
+    {
+        "extGrp": "ספורט",
+        "channelName": "FHD ספורט 5 לייב",
+        "tvgName": "sport5-plus-live-hd-il",
+        "tvgId": "sport5-plus-live-hd-il",
+        "tvgLogo": "https://i.ibb.co/R9J6bcD/5-Live.png",
+        "groupTitle": "Israel: Sports",
+        "channelId": 83775
+    },
+    {
+        "extGrp": "ספורט",
+        "channelName": "HD ספורט 5 לייב",
+        "tvgName": "sport5-plus-live-hd-il",
+        "tvgId": "sport5-plus-live-hd-il",
+        "tvgLogo": "https://i.ibb.co/R9J6bcD/5-Live.png",
+        "groupTitle": "Israel: Sports",
+        "channelId": 25825
+    },
+    {
+        "extGrp": "ספורט",
+        "channelName": "HD ספורט 5 לייב",
+        "tvgName": "sport5-plus-live-hd-il",
+        "tvgId": "sport5-plus-live-hd-il",
+        "tvgLogo": "https://i.ibb.co/R9J6bcD/5-Live.png",
+        "groupTitle": "Israel: Sports",
+        "channelId": 16521
+    },
+    {
+        "extGrp": "ספורט",
+        "channelName": "HD ספורט 5 סטארס",
+        "tvgName": "sport.5.starts.il",
+        "tvgId": "sport5-stars-il-hd",
+        "tvgLogo": "https://i.ibb.co/12Jxs3m/5-stars.png",
+        "groupTitle": "Israel: Sports",
+        "channelId": 83776
+    },
+    {
+        "extGrp": "ספורט",
+        "channelName": "HD ספורט 5 סטארס",
+        "tvgName": "sport.5.starts.il",
+        "tvgId": "sport5-stars-il-hd",
+        "tvgLogo": "https://i.ibb.co/12Jxs3m/5-stars.png",
+        "groupTitle": "Israel: Sports",
+        "channelId": 5955
+    },
+    {
+        "extGrp": "ספורט",
+        "channelName": "HD ספורט 5 סטארס",
+        "tvgName": "sport.5.starts.il",
+        "tvgId": "sport5-stars-il-hd",
+        "tvgLogo": "https://i.ibb.co/12Jxs3m/5-stars.png",
+        "groupTitle": "Israel: Sports",
+        "channelId": 25826
+    },
+    {
+        "extGrp": "ספורט",
+        "channelName": "HD ספורט 5 פלוס",
+        "tvgName": "sport.5.plus.il",
+        "tvgId": "yes-sport5-plus-il-hd",
+        "tvgLogo": "https://i.ibb.co/LhTj6FJ/5-Plus.png",
+        "groupTitle": "Israel: Sports",
+        "channelId": 12823
+    },
+    {
+        "extGrp": "ספורט",
+        "channelName": "SD ספורט 5 פלוס",
+        "tvgName": "sport.5.plus.il",
+        "tvgId": "yes-sport5-plus-il-hd",
+        "tvgLogo": "https://i.ibb.co/LhTj6FJ/5-Plus.png",
+        "groupTitle": "Israel: Sports",
+        "channelId": 22315
+    },
+    {
+        "extGrp": "ספורט",
+        "channelName": "SD ספורט 5 גולד",
+        "tvgName": "sport.5.gold.il",
+        "tvgId": "5GOLD [YES]",
+        "tvgLogo": "https://i.ibb.co/bQK9gj5/5-Gold.png",
+        "groupTitle": "Israel: Sports",
+        "channelId": 11725
+    },
+    {
+        "extGrp": "ספורט",
+        "channelName": "SD פוקס ספורט מרוצים",
+        "tvgName": "fox.sports.racing.il",
+        "tvgId": "Fox.Sports.Racing.HDTV.(FOXSR).ca",
+        "tvgLogo": "https://i.ibb.co/CmT8QMh/Fox-Sports-Racing.png",
+        "groupTitle": "Israel: Sports",
+        "channelId": 3341
+    },
+    {
+        "extGrp": "ספורט",
+        "channelName": "ONE 1 FHD P50",
+        "tvgName": "one-hd-i",
+        "tvgId": "one-hd-il",
+        "tvgLogo": "https://i.ibb.co/Hqky1H5/ONE-sport.png",
+        "groupTitle": "Israel: Sports",
+        "channelId": 83772
+    },
+    {
+        "extGrp": "ספורט",
+        "channelName": "ONE 1 FHD",
+        "tvgName": "one-hd-i",
+        "tvgId": "one-hd-il",
+        "tvgLogo": "https://i.ibb.co/Hqky1H5/ONE-sport.png",
+        "groupTitle": "Israel: Sports",
+        "channelId": 21903
+    },
+    {
+        "extGrp": "ספורט",
+        "channelName": "ONE 1 HD",
+        "tvgName": "one-hd-i",
+        "tvgId": "one-hd-il",
+        "tvgLogo": "https://i.ibb.co/Hqky1H5/ONE-sport.png",
+        "groupTitle": "Israel: Sports",
+        "channelId": 5956
+    },
+    {
+        "extGrp": "ספורט",
+        "channelName": "ONE 2 FHD P50",
+        "tvgName": "one2-hd-il",
+        "tvgId": "one2-hd-il",
+        "tvgLogo": "https://i.ibb.co/jf2NZw2/ONE2-sport.png",
+        "groupTitle": "Israel: Sports",
+        "channelId": 19104
+    },
+    {
+        "extGrp": "ספורט",
+        "channelName": "ONE 2 FHD",
+        "tvgName": "one2-hd-il",
+        "tvgId": "one2-hd-il",
+        "tvgLogo": "https://i.ibb.co/jf2NZw2/ONE2-sport.png",
+        "groupTitle": "Israel: Sports",
+        "channelId": 25827
+    },
+    {
+        "extGrp": "ספורט",
+        "channelName": "ONE 2 HD",
+        "tvgName": "one2-hd-il",
+        "tvgId": "one2-hd-il",
+        "tvgLogo": "https://i.ibb.co/jf2NZw2/ONE2-sport.png",
+        "groupTitle": "Israel: Sports",
+        "channelId": 83773
+    },
+    {
+        "extGrp": "ספורט",
+        "channelName": "Eurosport 1 HD",
+        "tvgName": "eurosport.1.il",
+        "tvgId": "EUROSPORT [YES]",
+        "tvgLogo": "https://i.ibb.co/28XrvzK/eurosport1.png",
+        "groupTitle": "Israel: Sports",
+        "channelId": 19377
+    },
+    {
+        "extGrp": "ספורט",
+        "channelName": "Eurosport 2 HD",
+        "tvgName": "eurosport.2.il",
+        "tvgId": "EUROSPORT 2 [YES]",
+        "tvgLogo": "https://i.ibb.co/gzjp9vN/eurosport2.png",
+        "groupTitle": "Israel: Sports",
+        "channelId": 19379
+    },
+    {
+        "extGrp": "ספורט",
+        "channelName": "SD Trace ספורט סטארס",
+        "tvgName": "trace.sport.stars.il",
+        "tvgId": "TRACE ספורט [YES]",
+        "tvgLogo": "https://i.ibb.co/196tzt2/TraceSS.png",
+        "groupTitle": "Israel: Sports",
+        "channelId": 63091
+    },
+    {
+        "extGrp": "ערוצי יס",
+        "channelName": "SD ערוץ ההומור",
+        "tvgName": "humor.channel.il",
+        "tvgId": "ערוץ ההומור [YES]",
+        "tvgLogo": "https://i.ibb.co/YRcBX0N/Humor-Channel-png.jpg",
+        "groupTitle": "Israel: YES",
+        "channelId": 19380
+    },
+    {
+        "extGrp": "ערוצי יס",
+        "channelName": "YES FHD טלויזיה פעולה",
+        "tvgName": "yes.tv.action.il",
+        "tvgId": "yes-action-hd-il",
+        "tvgLogo": "https://i.ibb.co/BLMsMPg/yes-TV-ACTION.png",
+        "groupTitle": "Israel: YES",
+        "channelId": 16517
+    },
+    {
+        "extGrp": "ערוצי יס",
+        "channelName": "YES FHD טלויזיה פעולה",
+        "tvgName": "yes.tv.action.il",
+        "tvgId": "yes-action-hd-il",
+        "tvgLogo": "https://i.ibb.co/BLMsMPg/yes-TV-ACTION.png",
+        "groupTitle": "Israel: YES",
+        "channelId": 25833
+    },
+    {
+        "extGrp": "ערוצי יס",
+        "channelName": "YES HD טלויזיה פעולה",
+        "tvgName": "yes.tv.action.il",
+        "tvgId": "yes-action-hd-il",
+        "tvgLogo": "https://i.ibb.co/BLMsMPg/yes-TV-ACTION.png",
+        "groupTitle": "Israel: YES",
+        "channelId": 45723
+    },
+    {
+        "extGrp": "ערוצי יס",
+        "channelName": "YES FHD טלויזיה קומדיה",
+        "tvgName": "yes.tv.comedy.il",
+        "tvgId": "yes-comedy-hd-il",
+        "tvgLogo": "https://i.ibb.co/bNDssb8/yes-TV-COMEDY.png",
+        "groupTitle": "Israel: YES",
+        "channelId": 45725
+    },
+    {
+        "extGrp": "ערוצי יס",
+        "channelName": "YES FHD טלויזיה קומדיה",
+        "tvgName": "yes.tv.comedy.il",
+        "tvgId": "yes-comedy-hd-il",
+        "tvgLogo": "https://i.ibb.co/bNDssb8/yes-TV-COMEDY.png",
+        "groupTitle": "Israel: YES",
+        "channelId": 16518
+    },
+    {
+        "extGrp": "ערוצי יס",
+        "channelName": "YES FHD טלויזיה קומדיה",
+        "tvgName": "yes.tv.comedy.il",
+        "tvgId": "yes-comedy-hd-il",
+        "tvgLogo": "https://i.ibb.co/bNDssb8/yes-TV-COMEDY.png",
+        "groupTitle": "Israel: YES",
+        "channelId": 25837
+    },
+    {
+        "extGrp": "ערוצי יס",
+        "channelName": "YES HD טלויזיה דרמה",
+        "tvgName": "yes.tv.actiondrama.il",
+        "tvgId": "yes-drama-hd-il",
+        "tvgLogo": "https://i.ibb.co/pXpmG46/yes-TV-DRAMA.png",
+        "groupTitle": "Israel: YES",
+        "channelId": 45722
+    },
+    {
+        "extGrp": "ערוצי יס",
+        "channelName": "YES HD טלויזיה דרמה",
+        "tvgName": "yes.tv.drama.il",
+        "tvgId": "yes-drama-hd-il",
+        "tvgLogo": "https://i.ibb.co/pXpmG46/yes-TV-DRAMA.png",
+        "groupTitle": "Israel: YES",
+        "channelId": 16520
+    },
+    {
+        "extGrp": "ערוצי יס",
+        "channelName": "YES HD טלויזיה דרמה",
+        "tvgName": "yes.tv.drama.il",
+        "tvgId": "yes-drama-hd-il",
+        "tvgLogo": "https://i.ibb.co/pXpmG46/yes-TV-DRAMA.png",
+        "groupTitle": "Israel: YES",
+        "channelId": 25835
+    },
+    {
+        "extGrp": "ערוצי יס",
+        "channelName": "YES HD סרטים פעולה",
+        "tvgName": "yes.movies.action.il",
+        "tvgId": "yes-movies-action-hd-il",
+        "tvgLogo": "https://i.ibb.co/MRKVfZc/yes-MOVIES-ACTION.png",
+        "groupTitle": "Israel: YES",
+        "channelId": 45721
+    },
+    {
+        "extGrp": "ערוצי יס",
+        "channelName": "YES HD סרטים פעולה",
+        "tvgName": "yes.movies.action.il",
+        "tvgId": "yes-movies-action-hd-il",
+        "tvgLogo": "https://i.ibb.co/MRKVfZc/yes-MOVIES-ACTION.png",
+        "groupTitle": "Israel: YES",
+        "channelId": 64338
+    },
+    {
+        "extGrp": "ערוצי יס",
+        "channelName": "YES RUS FHD סרטים פעולה",
+        "tvgName": "yes.movies.action.il",
+        "tvgId": "yes-movies-action-hd-il",
+        "tvgLogo": "https://i.ibb.co/MRKVfZc/yes-MOVIES-ACTION.png",
+        "groupTitle": "Israel: YES",
+        "channelId": 16513
+    },
+    {
+        "extGrp": "ערוצי יס",
+        "channelName": "YES RUS FHD סרטים פעולה",
+        "tvgName": "yes.movies.action.il",
+        "tvgId": "yes-movies-action-hd-il",
+        "tvgLogo": "https://i.ibb.co/MRKVfZc/yes-MOVIES-ACTION.png",
+        "groupTitle": "Israel: YES",
+        "channelId": 25829
+    },
+    {
+        "extGrp": "ערוצי יס",
+        "channelName": "YES HD סרטים דרמה",
+        "tvgName": "yes.movies.drama.il",
+        "tvgId": "yes-movies-drama-il-hd",
+        "tvgLogo": "https://i.ibb.co/vBrJw80/yes-MOVIES-DRAMA.png",
+        "groupTitle": "Israel: YES",
+        "channelId": 45719
+    },
+    {
+        "extGrp": "ערוצי יס",
+        "channelName": "YES HD סרטים דרמה",
+        "tvgName": "yes.movies.drama.il",
+        "tvgId": "yes-movies-drama-il-hd",
+        "tvgLogo": "https://i.ibb.co/vBrJw80/yes-MOVIES-DRAMA.png",
+        "groupTitle": "Israel: YES",
+        "channelId": 64340
+    },
+    {
+        "extGrp": "ערוצי יס",
+        "channelName": "YES RUS FHD סרטים דרמה",
+        "tvgName": "yes.movies.drama.il",
+        "tvgId": "yes-movies-drama-il-hd",
+        "tvgLogo": "https://i.ibb.co/vBrJw80/yes-MOVIES-DRAMA.png",
+        "groupTitle": "Israel: YES",
+        "channelId": 16512
+    },
+    {
+        "extGrp": "ערוצי יס",
+        "channelName": "YES RUS FHD סרטים דרמה",
+        "tvgName": "yes.movies.drama.il",
+        "tvgId": "yes-movies-drama-il-hd",
+        "tvgLogo": "https://i.ibb.co/vBrJw80/yes-MOVIES-DRAMA.png",
+        "groupTitle": "Israel: YES",
+        "channelId": 25828
+    },
+    {
+        "extGrp": "ערוצי יס",
+        "channelName": "YES HD סרטים קומדיה",
+        "tvgName": "yes.movies.comedy.il",
+        "tvgId": "yes-movies-comedy-il",
+        "tvgLogo": "https://i.ibb.co/qgwFhdQ/yes-MOVIES-COMDY.png",
+        "groupTitle": "Israel: YES",
+        "channelId": 45720
+    },
+    {
+        "extGrp": "ערוצי יס",
+        "channelName": "YES RUS FHD סרטים קומדיה",
+        "tvgName": "yes.movies.comedy.il",
+        "tvgId": "yes-movies-comedy-il",
+        "tvgLogo": "https://i.ibb.co/qgwFhdQ/yes-MOVIES-COMDY.png",
+        "groupTitle": "Israel: YES",
+        "channelId": 16515
+    },
+    {
+        "extGrp": "ערוצי יס",
+        "channelName": "YES RUS FHD סרטים קומדיה",
+        "tvgName": "yes.movies.comedy.il",
+        "tvgId": "yes-movies-comedy-il",
+        "tvgLogo": "https://i.ibb.co/qgwFhdQ/yes-MOVIES-COMDY.png",
+        "groupTitle": "Israel: YES",
+        "channelId": 25831
+    },
+    {
+        "extGrp": "ערוצי יס",
+        "channelName": "YES SD קולנוע ישראלי",
+        "tvgName": "yes.israeli.movies.il",
+        "tvgId": "yes-israel-il",
+        "tvgLogo": "https://i.ibb.co/Wfj9x6R/yes-ISRAELI.png",
+        "groupTitle": "Israel: YES",
+        "channelId": 26119
+    },
+    {
+        "extGrp": "ערוצי יס",
+        "channelName": "YES SD קולנוע ישראלי",
+        "tvgName": "yes.israeli.movies.il",
+        "tvgId": "yes-israel-il",
+        "tvgLogo": "https://i.ibb.co/Wfj9x6R/yes-ISRAELI.png",
+        "groupTitle": "Israel: YES",
+        "channelId": 16522
+    },
+    {
+        "extGrp": "ערוצי יס",
+        "channelName": "YES FHD סרטים ילדים",
+        "tvgName": "yes.movies.kids.il",
+        "tvgId": "yes-movies-kids-hd-il",
+        "tvgLogo": "https://i.ibb.co/1qSff6Q/yes-MOVIES-KIDS.png",
+        "groupTitle": "Israel: YES",
+        "channelId": 60460
+    },
+    {
+        "extGrp": "ערוצי יס",
+        "channelName": "YES HD סרטים ילדים",
+        "tvgName": "yes.movies.kids.il",
+        "tvgId": "yes-movies-kids-hd-il",
+        "tvgLogo": "https://i.ibb.co/1qSff6Q/yes-MOVIES-KIDS.png",
+        "groupTitle": "Israel: YES",
+        "channelId": 45718
+    },
+    {
+        "extGrp": "ערוצי יס",
+        "channelName": "YES FHD דוקו",
+        "tvgName": "yes.docu.il",
+        "tvgId": "yes-docu-il-hd",
+        "tvgLogo": "https://i.ibb.co/YZ6wNhv/yes-DOCO.png",
+        "groupTitle": "Israel: YES",
+        "channelId": 16519
+    },
+    {
+        "extGrp": "ערוצי יס",
+        "channelName": "YES FHD דוקו",
+        "tvgName": "yes.docu.il",
+        "tvgId": "yes-docu-il-hd",
+        "tvgLogo": "https://i.ibb.co/YZ6wNhv/yes-DOCO.png",
+        "groupTitle": "Israel: YES",
+        "channelId": 25834
+    },
+    {
+        "extGrp": "ערוצי יס",
+        "channelName": "YES FHD דוקו",
+        "tvgName": "yes.docu.il",
+        "tvgId": "yes-docu-il-hd",
+        "tvgLogo": "https://i.ibb.co/YZ6wNhv/yes-DOCO.png",
+        "groupTitle": "Israel: YES",
+        "channelId": 25832
+    },
+    {
+        "extGrp": "ערוצי הוט",
+        "channelName": "SD הוט 3",
+        "tvgName": "hot.3.il",
+        "tvgId": "HOT3 [HOT]",
+        "tvgLogo": "https://i.ibb.co/Cmq24Hf/HOT-3.png",
+        "groupTitle": "Israel: HOT",
+        "channelId": 6106
+    },
+    {
+        "extGrp": "ערוצי הוט",
+        "channelName": "SD הוט 8",
+        "tvgName": "hot.8.il",
+        "tvgId": "HOT8 [HOT]",
+        "tvgLogo": "https://i.ibb.co/kGg4c26/HOT-8.png",
+        "groupTitle": "Israel: HOT",
+        "channelId": 8141
+    },
+    {
+        "extGrp": "ערוצי הוט",
+        "channelName": "SD הוט זון",
+        "tvgName": "hot.zone.il",
+        "tvgId": "HOT Zone [HOT]",
+        "tvgLogo": "https://i.ibb.co/3CrKZpP/HOT-Zone.png",
+        "groupTitle": "Israel: HOT",
+        "channelId": 6107
+    },
+    {
+        "extGrp": "ערוצי הוט",
+        "channelName": "SD הוט קומדי סנטרל",
+        "tvgName": "hot.comedy.central.il",
+        "tvgId": "HOT COMEDY [HOT]",
+        "tvgLogo": "https://i.ibb.co/HDVknX5/HOT-Comedy-Central.png",
+        "groupTitle": "Israel: HOT",
+        "channelId": 6104
+    },
+    {
+        "extGrp": "ערוצי הוט",
+        "channelName": "SD הוט בידור ישראלי",
+        "tvgName": "hot.bidur.israeli.il",
+        "tvgId": "הוט בידור [HOT]",
+        "tvgLogo": "https://i.ibb.co/5jcfbhy/HOT-Bidur.png",
+        "groupTitle": "Israel: HOT",
+        "channelId": 6102
+    },
+    {
+        "extGrp": "ערוצי הוט",
+        "channelName": "SD הוט סינמה 1",
+        "tvgName": "hot.cinema.1.il",
+        "tvgId": "HOT cinema 1 [HOT]",
+        "tvgLogo": "https://i.ibb.co/ZWLdg0b/HOT-C1.png",
+        "groupTitle": "Israel: HOT",
+        "channelId": 23802
+    },
+    {
+        "extGrp": "ערוצי הוט",
+        "channelName": "SD הוט סינמה 1",
+        "tvgName": "hot.cinema.1.il",
+        "tvgId": "HOT cinema 1 [HOT]",
+        "tvgLogo": "https://i.ibb.co/ZWLdg0b/HOT-C1.png",
+        "groupTitle": "Israel: HOT",
+        "channelId": 6108
+    },
+    {
+        "extGrp": "ערוצי הוט",
+        "channelName": "SD הוט סינמה 2",
+        "tvgName": "hot.cinema.2.il",
+        "tvgId": "HOT cinema 2 [HOT]",
+        "tvgLogo": "https://i.ibb.co/bsDpWgX/HOT-C2.png",
+        "groupTitle": "Israel: HOT",
+        "channelId": 25821
+    },
+    {
+        "extGrp": "ערוצי הוט",
+        "channelName": "SD הוט סינמה 2",
+        "tvgName": "hot.cinema.2.il",
+        "tvgId": "HOT cinema 2 [HOT]",
+        "tvgLogo": "https://i.ibb.co/bsDpWgX/HOT-C2.png",
+        "groupTitle": "Israel: HOT",
+        "channelId": 5960
+    },
+    {
+        "extGrp": "ערוצי הוט",
+        "channelName": "SD הוט סינמה 3",
+        "tvgName": "hot.cinema.3.il",
+        "tvgId": "HOT cinema 3 [HOT]",
+        "tvgLogo": "https://i.ibb.co/vJX7LhD/HOT-C3.png",
+        "groupTitle": "Israel: HOT",
+        "channelId": 64397
+    },
+    {
+        "extGrp": "ערוצי הוט",
+        "channelName": "SD הוט סינמה 3",
+        "tvgName": "hot.cinema.3.il",
+        "tvgId": "HOT cinema 3 [HOT]",
+        "tvgLogo": "https://i.ibb.co/vJX7LhD/HOT-C3.png",
+        "groupTitle": "Israel: HOT",
+        "channelId": 25822
+    },
+    {
+        "extGrp": "ערוצי הוט",
+        "channelName": "SD הוט סינמה 3",
+        "tvgName": "hot.cinema.3.il",
+        "tvgId": "HOT cinema 3 [HOT]",
+        "tvgLogo": "https://i.ibb.co/vJX7LhD/HOT-C3.png",
+        "groupTitle": "Israel: HOT",
+        "channelId": 5961
+    },
+    {
+        "extGrp": "ערוצי הוט",
+        "channelName": "SD הוט סינמה 4",
+        "tvgName": "hot.cinema.4.il",
+        "tvgId": "HOT cinema 4 [HOT]",
+        "tvgLogo": "https://i.ibb.co/KNfwwwJ/HOT-C4.png",
+        "groupTitle": "Israel: HOT",
+        "channelId": 64339
+    },
+    {
+        "extGrp": "ערוצי הוט",
+        "channelName": "SD הוט סינמה 4",
+        "tvgName": "hot.cinema.4.il",
+        "tvgId": "HOT cinema 4 [HOT]",
+        "tvgLogo": "https://i.ibb.co/KNfwwwJ/HOT-C4.png",
+        "groupTitle": "Israel: HOT",
+        "channelId": 25823
+    },
+    {
+        "extGrp": "ערוצי הוט",
+        "channelName": "SD הוט סינמה 4",
+        "tvgName": "hot.cinema.4.il",
+        "tvgId": "HOT cinema 4 [HOT]",
+        "tvgLogo": "https://i.ibb.co/KNfwwwJ/HOT-C4.png",
+        "groupTitle": "Israel: HOT",
+        "channelId": 6109
+    },
+    {
+        "extGrp": "ערוצי הוט",
+        "channelName": "HOT HBO HD",
+        "tvgName": "hot.hbo.il",
+        "tvgId": "HOT HBO [HOT]",
+        "tvgLogo": "https://i.ibb.co/nQZKTYH/HOT-HBO.png",
+        "groupTitle": "Israel: HOT",
+        "channelId": 41504
+    },
+    {
+        "extGrp": "ערוצי הוט",
+        "channelName": "HOT HBO HD",
+        "tvgName": "hot.hbo.il",
+        "tvgId": "HOT HBO [HOT]",
+        "tvgLogo": "https://i.ibb.co/nQZKTYH/HOT-HBO.png",
+        "groupTitle": "Israel: HOT",
+        "channelId": 6110
+    },
+    {
+        "extGrp": "ילדים",
+        "channelName": "SD זום",
+        "tvgName": "zoom.il",
+        "tvgId": "zoom-il",
+        "tvgLogo": "https://i.ibb.co/wwbxWvs/logo-zoom-CH-90-320-213.jpg",
+        "groupTitle": "Israel: Kids",
+        "channelId": 8146
+    },
+    {
+        "extGrp": "ילדים",
+        "channelName": "SD הופ!",
+        "tvgName": "hop.il",
+        "tvgId": "הופ! [YES]",
+        "tvgLogo": "https://i.ibb.co/Qpyj009/hop.jpg",
+        "groupTitle": "Israel: Kids",
+        "channelId": 16062
+    },
+    {
+        "extGrp": "ילדים",
+        "channelName": "SD הופ! ילדות ישראלית",
+        "tvgName": "hop.yaldut.israelit.il",
+        "tvgId": "hop-childhood-il",
+        "tvgLogo": "https://i.ibb.co/2SrXnj9/hop-yaldot.png",
+        "groupTitle": "Israel: Kids",
+        "channelId": 6114
+    },
+    {
+        "extGrp": "ילדים",
+        "channelName": "SD הופ! ילדות ישראלית",
+        "tvgName": "hop.yaldut.israelit.il",
+        "tvgId": "hop-childhood-il",
+        "tvgLogo": "https://i.ibb.co/2SrXnj9/hop-yaldot.png",
+        "groupTitle": "Israel: Kids",
+        "channelId": 41501
+    },
+    {
+        "extGrp": "ילדים",
+        "channelName": "HD דיסני",
+        "tvgName": "disney.il",
+        "tvgId": "yes-disney-il-hd",
+        "tvgLogo": "https://i.ibb.co/4jsBv7k/disney.png",
+        "groupTitle": "Israel: Kids",
+        "channelId": 9574
+    },
+    {
+        "extGrp": "ילדים",
+        "channelName": "SD דיסני ג׳וניור",
+        "tvgName": "disney-jr-il",
+        "tvgId": "disney-jr-il",
+        "tvgLogo": "https://i.ibb.co/XsD3ymp/Disney-Junior.png",
+        "groupTitle": "Israel: Kids",
+        "channelId": 9575
+    },
+    {
+        "extGrp": "ילדים",
+        "channelName": "SD ניקולודיאון",
+        "tvgName": "nickolodeon.il",
+        "tvgId": "yes-nickelodeon-il",
+        "tvgLogo": "https://i.ibb.co/VBXfKwQ/Nick.png",
+        "groupTitle": "Israel: Kids",
+        "channelId": 19515
+    },
+    {
+        "extGrp": "ילדים",
+        "channelName": "SD ניק ג׳וניור",
+        "tvgName": "nick-jr-il",
+        "tvgId": "nick-jr-il",
+        "tvgLogo": "https://i.ibb.co/1MfVYWd/nick-jr.png",
+        "groupTitle": "Israel: Kids",
+        "channelId": 6113
+    },
+    {
+        "extGrp": "ילדים",
+        "channelName": "SD ניק ג׳וניור",
+        "tvgName": "nick-jr-il",
+        "tvgId": "nick-jr-il",
+        "tvgLogo": "https://i.ibb.co/1MfVYWd/nick-jr.png",
+        "groupTitle": "Israel: Kids",
+        "channelId": 3340
+    },
+    {
+        "extGrp": "ילדים",
+        "channelName": "SD ניק טין",
+        "tvgName": "teennick-il",
+        "tvgId": "teennick-il",
+        "tvgLogo": "https://i.ibb.co/s1drdq5/TeenNick.png",
+        "groupTitle": "Israel: Kids",
+        "channelId": 6112
+    },
+    {
+        "extGrp": "ילדים",
+        "channelName": "HD בייבי",
+        "tvgName": "baby-il",
+        "tvgId": "baby-il",
+        "tvgLogo": "https://i.ibb.co/0Zqt2Xm/Baby.png",
+        "groupTitle": "Israel: Kids",
+        "channelId": 6111
+    },
+    {
+        "extGrp": "ילדים",
+        "channelName": "SD ערוץ וויז",
+        "tvgName": "ערוץ WiZ [YES]",
+        "tvgId": "yes-wiz-il",
+        "tvgLogo": "https://i.imgur.com/LkVTjls.png",
+        "groupTitle": "Israel: Kids",
+        "channelId": 12035
+    },
+    {
+        "extGrp": "ילדים",
+        "channelName": "SD הוט לולי",
+        "tvgName": "luli.il",
+        "tvgId": "HOT לולי [HOT]",
+        "tvgLogo": "https://i.ibb.co/swfmw5y/hot-luli.png",
+        "groupTitle": "Israel: Kids",
+        "channelId": 12034
+    },
+    {
+        "extGrp": "ילדים",
+        "channelName": "SD ג׳וניור",
+        "tvgName": "junior.il",
+        "tvgId": "junior-il",
+        "tvgLogo": "https://i.ibb.co/sbRYqXS/junior.png",
+        "groupTitle": "Israel: Kids",
+        "channelId": 34679
+    },
+    {
+        "extGrp": "ילדים",
+        "channelName": "SD ג׳וניור",
+        "tvgName": "junior.il",
+        "tvgId": "junior-il",
+        "tvgLogo": "https://i.ibb.co/sbRYqXS/junior.png",
+        "groupTitle": "Israel: Kids",
+        "channelId": 8143
+    },
+    {
+        "extGrp": "מוזיקה",
+        "channelName": "FHD ערוץ 24",
+        "tvgName": "channel.24.il",
+        "tvgId": "channel24-il-hd",
+        "tvgLogo": "https://i.ibb.co/qnsM4P4/channel24.png",
+        "groupTitle": "Israel: Music",
+        "channelId": 41254
+    },
+    {
+        "extGrp": "מוזיקה",
+        "channelName": "FHD ערוץ 24",
+        "tvgName": "channel.24.il",
+        "tvgId": "channel24-il-hd",
+        "tvgLogo": "https://i.ibb.co/qnsM4P4/channel24.png",
+        "groupTitle": "Israel: Music",
+        "channelId": 3303
+    },
+    {
+        "extGrp": "מוזיקה",
+        "channelName": "MTV SD ישראל",
+        "tvgName": "mtv.israel.il",
+        "tvgId": "MTV [YES]",
+        "tvgLogo": "https://i.ibb.co/RH6NqQL/logo-75-mtv-320x213.jpg",
+        "groupTitle": "Israel: Music",
+        "channelId": 9573
+    },
+    {
+        "extGrp": "מוזיקה",
+        "channelName": "MTV SD להיטים",
+        "tvgName": "mtv.hits.il",
+        "tvgId": "MTV HITS [YES]",
+        "tvgLogo": "https://i.ibb.co/yPVkj1g/MTV-HITS.png",
+        "groupTitle": "Israel: Music",
+        "channelId": 42010
+    },
+    {
+        "extGrp": "מוזיקה",
+        "channelName": "MTV SD 00s",
+        "tvgName": "mtv.00s.il",
+        "tvgId": "MTV 00’s [YES]",
+        "tvgLogo": "https://i.ibb.co/DDBcQSH/MTV-00s.png",
+        "groupTitle": "Israel: Music",
+        "channelId": 42007
+    },
+    {
+        "extGrp": "מוזיקה",
+        "channelName": "MTV SD 80s",
+        "tvgName": "mtv.80s.il",
+        "tvgId": "MTV 80s [YES]",
+        "tvgLogo": "https://i.ibb.co/9b980nF/MTV-80s.png",
+        "groupTitle": "Israel: Music",
+        "channelId": 42008
+    },
+    {
+        "extGrp": "טבע והיסטוריה",
+        "channelName": "SD אנימל פלאנט",
+        "tvgName": "animal.planet.il",
+        "tvgId": "Animal Planet [YES]",
+        "tvgLogo": "https://i.ibb.co/sgTDs8J/Animal-Planet.jpg",
+        "groupTitle": "Israel: Nature & History",
+        "channelId": 35323
+    },
+    {
+        "extGrp": "טבע והיסטוריה",
+        "channelName": "HD נשיונל ג׳יאוגרפיק",
+        "tvgName": "national.geographic.il",
+        "tvgId": "yes-natgeo-il-hd",
+        "tvgLogo": "https://i.ibb.co/XD09KpB/NG.png",
+        "groupTitle": "Israel: Nature & History",
+        "channelId": 40774
+    },
+    {
+        "extGrp": "טבע והיסטוריה",
+        "channelName": "HD נשיונל ג׳יאוגרפיק",
+        "tvgName": "national.geographic.il",
+        "tvgId": "yes-natgeo-il-hd",
+        "tvgLogo": "https://i.ibb.co/XD09KpB/NG.png",
+        "groupTitle": "Israel: Nature & History",
+        "channelId": 9571
+    },
+    {
+        "extGrp": "טבע והיסטוריה",
+        "channelName": "HD נשיונל ג׳יאוגרפיק פראי",
+        "tvgName": "nat.geo.wild.il",
+        "tvgId": "yes-natgeo-wild-il-hd",
+        "tvgLogo": "https://i.ibb.co/RB5ZkV1/NG-Wild.png",
+        "groupTitle": "Israel: Nature & History",
+        "channelId": 40775
+    },
+    {
+        "extGrp": "טבע והיסטוריה",
+        "channelName": "HD נשיונל ג׳יאוגרפיק פראי",
+        "tvgName": "nat.geo.wild.il",
+        "tvgId": "yes-natgeo-wild-il-hd",
+        "tvgLogo": "https://i.ibb.co/RB5ZkV1/NG-Wild.png",
+        "groupTitle": "Israel: Nature & History",
+        "channelId": 7344
+    },
+    {
+        "extGrp": "טבע והיסטוריה",
+        "channelName": "SD נשיונל ג׳יאוגרפיק פראי",
+        "tvgName": "nat.geo.wild.il",
+        "tvgId": "yes-natgeo-wild-il-hd",
+        "tvgLogo": "https://i.ibb.co/RB5ZkV1/NG-Wild.png",
+        "groupTitle": "Israel: Nature & History",
+        "channelId": 12586
+    },
+    {
+        "extGrp": "טבע והיסטוריה",
+        "channelName": "SD דיסקוברי",
+        "tvgName": "discovery.il",
+        "tvgId": "discovery-hd-il",
+        "tvgLogo": "https://i.ibb.co/4SmfkJs/discovery.png",
+        "groupTitle": "Israel: Nature & History",
+        "channelId": 7342
+    },
+    {
+        "extGrp": "טבע והיסטוריה",
+        "channelName": "SD דיסקוברי מדע",
+        "tvgName": "discovery.science.il",
+        "tvgId": "Discovery Science [YES]",
+        "tvgLogo": "https://i.ibb.co/QHmX5Vf/discovery-SCIENCE.jpg",
+        "groupTitle": "Israel: Nature & History",
+        "channelId": 41253
+    },
+    {
+        "extGrp": "טבע והיסטוריה",
+        "channelName": "HD היסטוריה",
+        "tvgName": "history.hd.il",
+        "tvgId": "היסטוריה HD [YES]",
+        "tvgLogo": "https://i.ibb.co/6H7DBwp/history-HD-channel-320x213.jpg",
+        "groupTitle": "Israel: Nature & History",
+        "channelId": 8142
+    },
+    {
+        "extGrp": "טבע והיסטוריה",
+        "channelName": "SD היסטוריה",
+        "tvgName": "history.il",
+        "tvgId": "ערוץ ההיסטוריה [YES]",
+        "tvgLogo": "https://i.ibb.co/xD1yz7v/history-channel-44-320x213.jpg",
+        "groupTitle": "Israel: Nature & History",
+        "channelId": 22644
+    },
+    {
+        "extGrp": "ריאליטי ודוקומנטרי",
+        "channelName": "FHD ערוץ האח הגדול",
+        "tvgName": "big.brother.il",
+        "tvgId": "האח הגדול LIVE [YES]",
+        "tvgLogo": "https://i.ibb.co/XFYVMy0/Big-Brother.png",
+        "groupTitle": "Israel: Docu & Reality",
+        "channelId": 41078
+    },
+    {
+        "extGrp": "ריאליטי ודוקומנטרי",
+        "channelName": "HD ערוץ האח הגדול",
+        "tvgName": "big.brother.il",
+        "tvgId": "האח הגדול LIVE [YES]",
+        "tvgLogo": "https://i.ibb.co/XFYVMy0/Big-Brother.png",
+        "groupTitle": "Israel: Docu & Reality",
+        "channelId": 17205
+    },
+    {
+        "extGrp": "ריאליטי ודוקומנטרי",
+        "channelName": "TLC SD",
+        "tvgName": "tlc.il",
+        "tvgId": "TLC [YES]",
+        "tvgLogo": "https://i.ibb.co/ZfLLsZ4/TLC.png",
+        "groupTitle": "Israel: Docu & Reality",
+        "channelId": 35322
+    },
+    {
+        "extGrp": "ריאליטי ודוקומנטרי",
+        "channelName": "CBS SD ריאליטי",
+        "tvgName": "cbs-reality-il",
+        "tvgId": "cbs-reality-il",
+        "tvgLogo": "https://i.ibb.co/9NgT7fq/CBSREALITY.png",
+        "groupTitle": "Israel: Docu & Reality",
+        "channelId": 14723
+    },
+    {
+        "extGrp": "ריאליטי ודוקומנטרי",
+        "channelName": "SD ערוץ החקירות",
+        "tvgName": "investigation.discovery.il",
+        "tvgId": "Investigation Discovery [YES]",
+        "tvgLogo": "https://i.ibb.co/kmThcy3/ID.png",
+        "groupTitle": "Israel: Docu & Reality",
+        "channelId": 63092
+    },
+    {
+        "extGrp": "תרבות וסטייל",
+        "channelName": "SD ערוץ האוכל",
+        "tvgName": "food.channel.il",
+        "tvgId": "ערוץ האוכל [YES]",
+        "tvgLogo": "https://i.ibb.co/NrXJwwY/logo-haochel-320-213-2.jpg",
+        "groupTitle": "Israel: Style Living",
+        "channelId": 7341
+    },
+    {
+        "extGrp": "תרבות וסטייל",
+        "channelName": "HD רשת האוכל",
+        "tvgName": "food.network.il",
+        "tvgId": "Food Network [HOT]",
+        "tvgLogo": "https://i.ibb.co/jTZj08R/Food-Network.png",
+        "groupTitle": "Israel: Style Living",
+        "channelId": 22645
+    },
+    {
+        "extGrp": "תרבות וסטייל",
+        "channelName": "SD בית+",
+        "tvgName": "home.plus.il",
+        "tvgId": "home-plus-il",
+        "tvgLogo": "https://i.ibb.co/Y457rbX/home-plus.png",
+        "groupTitle": "Israel: Style Living",
+        "channelId": 6103
+    },
+    {
+        "extGrp": "תרבות וסטייל",
+        "channelName": "SD חיים טוב",
+        "tvgName": "fine.living.il",
+        "tvgId": "Fine.Living.al",
+        "tvgLogo": "https://i.ibb.co/j5LnKns/Fine-Living.png",
+        "groupTitle": "Israel: Style Living",
+        "channelId": 12029
+    },
+    {
+        "extGrp": "תרבות וסטייל",
+        "channelName": "SD ערוץ החיים הטובים",
+        "tvgName": "good.life.il",
+        "tvgId": "good-life-il",
+        "tvgLogo": "https://i.ibb.co/kGxjwD9/logo-hachaim-hatovim-320-213.jpg",
+        "groupTitle": "Israel: Style Living",
+        "channelId": 16283
+    },
+    {
+        "extGrp": "תרבות וסטייל",
+        "channelName": "SD ערוץ הבריאות",
+        "tvgName": "health.channel.il",
+        "tvgId": "health-il",
+        "tvgLogo": "https://i.ibb.co/R6VyBJR/logo-health.jpg",
+        "groupTitle": "Israel: Style Living",
+        "channelId": 12032
+    },
+    {
+        "extGrp": "תרבות וסטייל",
+        "channelName": "SD ערוץ העיצוב",
+        "tvgName": "style.channel.il",
+        "tvgId": "ערוץ.הסטייל.[Style.Channel.(Fashion.IL)].il",
+        "tvgLogo": "https://i.ibb.co/mbVccjX/logo-channel38-320-X213.jpg",
+        "groupTitle": "Israel: Style Living",
+        "channelId": 23716
+    },
+    {
+        "extGrp": "תרבות וסטייל",
+        "channelName": "SD ערוץ האופנה",
+        "tvgName": "ftv.il",
+        "tvgId": "FTV [YES]",
+        "tvgLogo": "https://i.ibb.co/b5yqGpJ/Fashion-TV.png",
+        "groupTitle": "Israel: Style Living",
+        "channelId": 41252
+    },
+    {
+        "extGrp": "תרבות וסטייל",
+        "channelName": "E! SD בידור",
+        "tvgName": "e.entertainment.il",
+        "tvgId": "e-il",
+        "tvgLogo": "https://i.ibb.co/ChbC9X6/E.png",
+        "groupTitle": "Israel: Style Living",
+        "channelId": 14639
+    },
+    {
+        "extGrp": "תרבות וסטייל",
+        "channelName": "SD ערוץ אגו",
+        "tvgName": "ego.channel.il",
+        "tvgId": "ego-total-il",
+        "tvgLogo": "https://i.ibb.co/87FpHXN/Ego.jpg",
+        "groupTitle": "Israel: Style Living",
+        "channelId": 12586
+    },
+    {
+        "extGrp": "תרבות וסטייל",
+        "channelName": "SD ערוץ הטיולים",
+        "tvgName": "travel.channel.il",
+        "tvgId": "ערוץ הטיולים [YES]",
+        "tvgLogo": "https://i.ibb.co/QFFtf2H/logo-hatiyulim-320-213.jpg",
+        "groupTitle": "Israel: Style Living",
+        "channelId": 25824
+    },
+    {
+        "extGrp": "תרבות וסטייל",
+        "channelName": "SD ערוץ הטיולים",
+        "tvgName": "travel.channel.sd.il",
+        "tvgId": "Travel Channel [HOT]",
+        "tvgLogo": "https://i.ibb.co/LkrRJqk/Travel-Channel.png",
+        "groupTitle": "Israel: Style Living",
+        "channelId": 7340
+    },
+    {
+        "extGrp": "תרבות וסטייל",
+        "channelName": "SD לייפטיים",
+        "tvgName": "lifetime.il",
+        "tvgId": "LIFETIME.ph",
+        "tvgLogo": "https://i.ibb.co/PjVBMqk/mylifetime.png",
+        "groupTitle": "Israel: Style Living",
+        "channelId": 12030
+    },
+    {
+        "extGrp": "תרבות וסטייל",
+        "channelName": "FHD ערוץ הקניות",
+        "tvgName": "shopping.channel.il",
+        "tvgId": "ערוץ הקניות [YES]",
+        "tvgLogo": "https://i.ibb.co/pXpQNsm/Shopping-Channel.png",
+        "groupTitle": "Israel: Style Living",
+        "channelId": 19513
+    },
+    {
+        "extGrp": "שפות זרות",
+        "channelName": "FHD ערוץ 9",
+        "tvgName": "channel.9.il",
+        "tvgId": "9-kanal-hd-il",
+        "tvgLogo": "https://i.ibb.co/NnCWHX4/Channel9.png",
+        "groupTitle": "Israel: Foreign Languages",
+        "channelId": 6105
+    },
+    {
+        "extGrp": "שפות זרות",
+        "channelName": "SD ערוץ 9",
+        "tvgName": "channel.9.il",
+        "tvgId": "9-kanal-hd-il",
+        "tvgLogo": "https://i.ibb.co/NnCWHX4/Channel9.png",
+        "groupTitle": "Israel: Foreign Languages",
+        "channelId": 40334
+    },
+    {
+        "extGrp": "שפות זרות",
+        "channelName": "MeTV",
+        "tvgName": "metv.us",
+        "tvgId": "MeTV.KSAT-DT2.us",
+        "tvgLogo": "https://i.ibb.co/5c8sXKJ/MeTV.png",
+        "groupTitle": "Israel: Foreign Languages",
+        "channelId": 23122
+    },
+    {
+        "extGrp": "שפות זרות",
+        "channelName": "SD פוקס ביזנס",
+        "tvgName": "fox.business.network.us",
+        "tvgId": "פוקס ביזנס [HOT]",
+        "tvgLogo": "https://i.ibb.co/Hr2DxRR/fox-business.png",
+        "groupTitle": "Israel: Foreign Languages",
+        "channelId": 42009
+    },
+    {
+        "extGrp": "שפות זרות",
+        "channelName": "i24 צרפת",
+        "tvgName": "i24-il",
+        "tvgId": "i24-il",
+        "tvgLogo": "https://i.ibb.co/cv5hXRc/FRANCE-24.png",
+        "groupTitle": "Israel: Foreign Languages",
+        "channelId": 12299
+    },
+    {
+        "extGrp": "שפות זרות",
+        "channelName": "SD מכאן 33",
+        "tvgName": "makan.33.il",
+        "tvgId": "makan33-il",
+        "tvgLogo": "https://i.ibb.co/hy0jCDJ/Makan.jpg",
+        "groupTitle": "Israel: Foreign Languages",
+        "channelId": 40335
+    },
+    {
+        "extGrp": "שפות זרות",
+        "channelName": "SD מכאן 33",
+        "tvgName": "makan.33.il",
+        "tvgId": "makan33-il",
+        "tvgLogo": "https://i.ibb.co/hy0jCDJ/Makan.jpg",
+        "groupTitle": "Israel: Foreign Languages",
+        "channelId": 18132
+    },
+    {
+        "extGrp": "שפות זרות",
+        "channelName": "HD ערוץ האלא",
+        "tvgName": "hala.il",
+        "tvgId": "Hala TV [YES]",
+        "tvgLogo": "https://i.ibb.co/cwQk3qy/Hala.png",
+        "groupTitle": "Israel: Foreign Languages",
+        "channelId": 19381
+    },
+    {
+        "extGrp": "שפות זרות",
+        "channelName": "SD ויוה",
+        "tvgName": "viva.il",
+        "tvgId": "viva-il",
+        "tvgLogo": "https://i.ibb.co/9nr0S6k/Viva.png",
+        "groupTitle": "Israel: Foreign Languages",
+        "channelId": 14531
+    },
+    {
+        "extGrp": "שפות זרות",
+        "channelName": "SD ויוה+",
+        "tvgName": "viva.plus.il",
+        "tvgId": "viva-plus-il",
+        "tvgLogo": "https://i.ibb.co/B6tX7Gn/VivaPlus.png",
+        "groupTitle": "Israel: Foreign Languages",
+        "channelId": 6101
+    },
+    {
+        "extGrp": "שפות זרות",
+        "channelName": "SD הערוץ הים תיכוני",
+        "tvgName": "mediterranean.channel.il",
+        "tvgId": "yamtihoni-il",
+        "tvgLogo": "https://i.ibb.co/Y3bmhjy/Yam-Tihoni.png",
+        "groupTitle": "Israel: Foreign Languages",
+        "channelId": 12031
+    },
+    {
+        "extGrp": "שפות זרות",
+        "channelName": "SD ערוץ הדרמות הטורקיות+",
+        "tvgName": "turkish.drama.channel.plus.il",
+        "tvgId": "turkish-dramas-plus-il",
+        "tvgLogo": "https://i.ibb.co/HP69B5r/turkish-drama-plus.png",
+        "groupTitle": "Israel: Foreign Languages",
+        "channelId": 34819
+    },
+    {
+        "extGrp": "שפות זרות",
+        "channelName": "SD ערוץ הדרמות הטורקיות 2",
+        "tvgName": "turkish.drama.channel.2.il",
+        "tvgId": "ערוץ הדרמות הטורקיות 2 [YES]",
+        "tvgLogo": "https://i.ibb.co/FBd1MjF/turkish-drama-2.png",
+        "groupTitle": "Israel: Foreign Languages",
+        "channelId": 45726
+    },
+    {
+        "extGrp": "שפות זרות",
+        "channelName": "SD הוט בוליווד",
+        "tvgName": "hot.bollywood.il",
+        "tvgId": "Bollywood HD [HOT]",
+        "tvgLogo": "https://i.ibb.co/pyDNKw1/hot-Bollywood.png",
+        "groupTitle": "Israel: Foreign Languages",
+        "channelId": 62379
+    },
+    {
+        "extGrp": "שפות זרות",
+        "channelName": "SD יס בוליווד",
+        "tvgName": "yes.bollywood.il",
+        "tvgId": "Bollywood HD [HOT]",
+        "tvgLogo": "https://i.ibb.co/LP0Nc1d/yes-Bollywoo-D.png",
+        "groupTitle": "Israel: Foreign Languages",
+        "channelId": 20368
+    }
+]

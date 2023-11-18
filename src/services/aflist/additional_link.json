@@ -1,0 +1,22 @@
+[
+  {
+    "tvgId": "האח הגדול LIVE [YES]",
+    "tvgLogo": "https://dikodahan.github.io/picons/light/Big-Brother.png",
+    "extGrp": "",
+    "channelName": "3האח הגדול LIVE",
+    "url": "https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index_3.m3u8"
+  },
+  {
+    "tvgId": "3האח הגדול LIVE [YES]",
+    "tvgLogo": "https://dikodahan.github.io/picons/light/Big-Brother.png",
+    "extGrp": "",
+    "channelName": "2האח הגדול LIVE",
+    "url": "https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index_3.m3u8"
+  },
+  {
+    "tvgId": "האח הגדול2 LIVE [YES]",
+    "tvgLogo": "https://dikodahan.github.io/picons/light/Big-Brother.png",
+    "extGrp": "",
+    "url": "https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index_3.m3u8"
+  }
+]
