@@ -11,6 +11,10 @@ export async function* tvTeamGenerator(
     throw new UserException("Invalid token", 400);
   }
 
+  for (const line of epgGenerator()) {
+    yield line;
+  }
+
   // Replace 'YOUR_TOKEN' with the actual token retrieved from the request handling in index.ts
   const url = `http://troya.one/pl/21/${token}/playlist.m3u8`;
 
